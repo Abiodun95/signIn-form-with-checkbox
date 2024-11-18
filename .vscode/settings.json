@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 15,
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace, 'cascadia code'",
+  "editor.wordWrap": "on",
+  "liveServer.settings.port": 5503
+}
